@@ -1,1 +1,0 @@
-# turinglogic.github.io
